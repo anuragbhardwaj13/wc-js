@@ -67,3 +67,7 @@ node index.js [options] <filename>
 ## Implementation Details
 
 The script uses Node.js's `fs` module to read files and process their content to compute the requested statistics. It provides a flexible command-line interface to specify different statistics through flags. The implementation involves defining functions for each statistic, streamlining file processing and error handling.
+
+
+### Problem Statement Reference
+This is a solution to this coding challenge : [Build Your Own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc)
